@@ -51,15 +51,22 @@ If you need help running Python and/or Jupyter Notebooks, please don't hesitate 
 
 ## Lab Notebooks
 
-| Lab | Date       |Topic                                                                 | Launchers |
-|:---:|:----------:|----------------------------------------------------------------------|:--------:|
-|  0  | < 1 March  | Testing the Notebook Environment                                     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_00%2Ftest_notebook_environment.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_00/test_notebook_environment.ipynb)|
-|  0  | < 1 March  | Introduction to the Notebook Environment                             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_00%2Fintroduction_notebook.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_00/introduction_notebook.ipynb)|
-|  1  | 1 March    | Fundamentals of Python Programming                                   | tbd       |
+| Lab | Date         |Topic                                                                 | Launchers |
+|:---:|:------------:|----------------------------------------------------------------------|:--------:|
+|  0  | < March 1st  | Testing the Notebook Environment                                     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_00%2Ftest_notebook_environment.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_00/test_notebook_environment.ipynb)|
+|  0  | < March 1st  | Introduction to the Notebook Environment                             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_00%2Fintroduction_notebook.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_00/introduction_notebook.ipynb)|
+|  1  | March 1st    | Fundamentals of Python Programming: Data Types and Containers        | tbd       |
+|  2  | March 15th   | Fundamentals of Python Programming: Function and Decision Structures | tbd       |
+|  3  | March 29th   | Supervised Learning: Naive-Bayes and Nearest-Neighbor Classification | tbd       |
+|     |  tbd         | *Coding Challenge Kick-off and Team Registration Deadline            |           |
+|     |              | *Semester Break*                                                      |           |
+|  4  | April 19th   | Unsupervised Learning: k-means and Expectation-Maximization Clustering | tbd     |
+|  5  | May 3rd      | Artificial Neural Networks: Training and Evaluation                  |  tbd      |
+|  6  | May 10th     | Convolutional Neural Network: Training and Evaluation                |  tbd      |
+|     | May 20th     | *Coding Challenge Final Presentation*                                |           | 
+
 
 [comment]: <> ([![Binder]&#40;https://mybinder.org/badge_logo.svg&#41;]&#40;https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_02%2Faiml_lab_02.ipynb&#41;[![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_02/aiml_colab_02.ipynb&#41; |)
-
-... additional notebooks will be upload upon availability...
 
 
 
