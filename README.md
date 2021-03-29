@@ -21,49 +21,14 @@ neural networks. We will also feature information on our coding challenge at the
 |  2  | March 15th   | Fundamentals of Python Programming: Functions and Decision Structures | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_01_02%2Faiml_lab_01_02.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_01_02/aiml_lab_01_02.ipynb)|
 |  3  | March 29th   | Supervised Learning: Naive-Bayes                                     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_03%2Flab_03.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_03/lab_03.ipynb)|
 |     |              | Supervised Learning Bonus: Nearest-Neighbor Classification           | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_03%2Flab_03_bonus_knn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_03/lab_03_bonus_knn.ipynb)|
-|     |  tbd         | *Coding Challenge Kick-off and Team Registration Deadline            |           |
-|     |              | *Semester Break*                                                      |           |
+|     | March 29th   | *Coding Challenge Quickstart Notebook*                               | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=challenge%2Fchallenge_quickstart.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/challenge/challenge_quickstart.ipynb)|
+|     |              | *Spring Semester Break!*                                             |            |
 |  4  | April 19th   | Unsupervised Learning: k-means and Expectation-Maximization Clustering | tbd     |
+|     | April 19th   | *Coding Challenge Kick-off and Team Registration Deadline            |            |
 |  5  | May 3rd      | Artificial Neural Networks: Training and Evaluation                  |  tbd      |
 |  6  | May 10th     | Convolutional Neural Network: Training and Evaluation                |  tbd      |
 |     | May 20th     | *Coding Challenge Final Presentation*                                |           | 
 
-
-[comment]: <> ([![Binder]&#40;https://mybinder.org/badge_logo.svg&#41;]&#40;https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_02%2Faiml_lab_02.ipynb&#41;[![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_02/aiml_colab_02.ipynb&#41; |)
-
-
-
-[comment]: <> (**Lab 03:** "Supervised Machine Learning" )
-
-[comment]: <> (- Naive-Bayes: &#40;[![Binder]&#40;https://mybinder.org/badge_logo.svg&#41;]&#40;https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_03%2Faiml_lab_03a.ipynb&#41;, [![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_03/aiml_colab_03a.ipynb&#41;&#41;)
-
-[comment]: <> (- k-Nearest Neighbors: &#40;[![Binder]&#40;https://mybinder.org/badge_logo.svg&#41;]&#40;https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_03%2Faiml_lab_03b.ipynb&#41;, [![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_03/aiml_colab_03b.ipynb&#41;&#41;)
-
-[comment]: <> (- Logistic Regression: &#40;[![Binder]&#40;https://mybinder.org/badge_logo.svg&#41;]&#40;https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_07%2Faiml_lab_07.ipynb&#41;, [![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_07/aiml_colab_07.ipynb&#41;&#41;)
-
-[comment]: <> (**Lab 04:** "Unsupervised Machine Learning" )
-
-[comment]: <> (- K-Means: &#40;[![Binder]&#40;https://mybinder.org/badge_logo.svg&#41;]&#40;https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_04%2Faiml_lab_04a.ipynb&#41;, [![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_04/aiml_colab_04a.ipynb&#41;&#41;)
-
-[comment]: <> (- Expectation-Maximization: &#40;[![Binder]&#40;https://mybinder.org/badge_logo.svg&#41;]&#40;https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_04%2Faiml_lab_04b.ipynb&#41;, [![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_04/aiml_colab_04b.ipynb&#41;&#41;)
-
-[comment]: <> (**Lab 05:** "Deep Learning - Artificial Neural Networks &#40;ANNs&#41;" &#40;[![Binder]&#40;https://mybinder.org/badge_logo.svg&#41;]&#40;https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_05%2Faiml_lab_05.ipynb&#41;, [![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_05/aiml_colab_05.ipynb&#41;&#41;)
-
-[comment]: <> (**Lab 06:** "Deep Learning - Convolutional Neural Networks &#40;CNNs&#41;" &#40;[![Binder]&#40;https://mybinder.org/badge_logo.svg&#41;]&#40;https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_06%2Faiml_lab_06.ipynb&#41;, [![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_06/aiml_colab_06.ipynb&#41;&#41;)
-
-[comment]: <> (<!---)
-
-[comment]: <> (**Lab 06:** "Deep Learning - Convolutional Neural Networks &#40;CNNs&#41;" &#40;[![Binder]&#40;https://mybinder.org/badge_logo.svg&#41;]&#40;https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=lab_06%2Faiml_lab_06.ipynb&#41;, [![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/lab_06/aiml_colab_06.ipynb&#41;&#41;)
-
-[comment]: <> (-->)
-
-[comment]: <> (## Running the Coding Challenge "Kick-Start" Notebook)
-
-[comment]: <> (**Coding Challenge:** "Data Download and Annotation Notebook" &#40;[![Binder]&#40;https://mybinder.org/badge_logo.svg&#41;]&#40;https://mybinder.org/v2/gh/GitiHubi/courseAIML/master?filepath=challenge%2Faiml_lab_challenge.ipynb&#41;, [![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab.research.google.com/github/GitiHubi/courseAIML/blob/master/challenge/aiml_colab_challenge.ipynb&#41;&#41;)
-
-[comment]: <> (## Getting Started)
-
-[comment]: <> (Install dependencies via `pip install -r requirements.txt`.)
 
 ## How To Run the Lab Notebooks
 
