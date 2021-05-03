@@ -26,7 +26,7 @@ neural networks. We will also feature information on our coding challenge at the
 |  4  | April 19th   | Unsupervised Learning: k-means Clustering | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_04%2Faiml_lab_04a.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_04/aiml_lab_04a.ipynb)    |
 |    |               | Unsupervised Learning: Expectation-Maximization Clustering | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_04%2Faiml_lab_04b.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_04/aiml_lab_04b.ipynb)    |
 |     | April 19th   | *Coding Challenge Kick-off and Team Registration Deadline            |            |
-|  5  | May 3rd      | Artificial Neural Networks: Training and Evaluation                  |  tbd      |
+|  5  | May 3rd      | Artificial Neural Networks: Training and Evaluation                  |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_05%2Faiml_lab_05.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_05/aiml_lab_05.ipynb) |
 |  6  | May 10th     | Convolutional Neural Network: Training and Evaluation                |  tbd      |
 |     | May 20th     | *Coding Challenge Final Presentation*                                |           | 
 
