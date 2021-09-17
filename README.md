@@ -23,7 +23,7 @@ neural networks. We will also feature information on our coding challenge at the
 |     |          | *Coding Challenge Quickstart Notebook*                               | tba |
 |     |              | *Fall Semester Break!*                                             |            |
 |  4  | Nov 15  | Unsupervised Learning: k-means Clustering | tba  |
-|     | Nov 15   | *Coding Challenge Kick-off and Team Registration Deadline            |            |
+|     | Nov 15   | *Coding Challenge Kick-off and Team Registration Deadline*            |            |
 |  5  | Nov 22   | Artificial Neural Networks: Training and Evaluation                  |  tba |
 |  6  | Dec 6    | Convolutional Neural Network: Training and Evaluation                |   tba   |
 |     | Dec 13   | *Coding Challenge Clinic*                                |           |
