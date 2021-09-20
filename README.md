@@ -22,7 +22,7 @@ neural networks. We will also feature information on our coding challenge at the
 |  3  | Oct 25   | Supervised Learning with Scikit-learn                                     | tba |
 |     |          | *Coding Challenge Quickstart Notebook*                               | tba |
 |     |              | *Fall Semester Break!*                                             |            |
-|     | Nov 22   | *Coding Challenge Kick-off and Team Registration Deadline            |            |
+|     | Nov 22   | *Coding Challenge Kick-off and Team Registration Deadline*            |            |
 |  4  | Nov 22   | Artificial Neural Networks: Training and Evaluation                  |  tba |
 |  5  | Dec 6    | Convolutional Neural Network: Training and Evaluation                |   tba   |
 |     | Dec 13   | *Coding Challenge Clinic*                                |           |
