@@ -15,17 +15,16 @@ neural networks. We will also feature information on our coding challenge at the
 
 | Lab | Date         |Topic                                                                 | Launchers |
 |:---:|:------------:|----------------------------------------------------------------------|:--------:|
-|  0  | < Sep 27  | Testing the Notebook Environment                                     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_00%2Ftest_notebook_environment.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_00/test_notebook_environment.ipynb)|
-|  0  | < Sep 27  | Introduction to the Notebook Environment                             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_00%2Fintroduction_notebook.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_00/introduction_notebook.ipynb)|
-|  1  | Sep 27    | Fundamentals of Python Programming: Data Types and Containers        | tba |
-|  2  | Oct 11   | Fundamentals of Python Programming: Functions and Decision Structures | tba |
-|  3  | Oct 25   | Supervised Learning: Naive-Bayes                                     | tba |
+|  0  | < Oct 4  | Testing the Notebook Environment                                     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_00%2Ftest_notebook_environment.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_00/test_notebook_environment.ipynb)|
+|  0  | < Oct 4  | Introduction to the Notebook Environment                             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_00%2Fintroduction_notebook.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_00/introduction_notebook.ipynb)|
+|  1  | Oct 4    | Fundamentals of Python Programming: Data Types and Containers        | tba |
+|  2  | Oct 18   | Fundamentals of Python Programming: Functions and Decision Structures | tba |
+|  3  | Oct 25   | Supervised and Unsupervised Learning                                     | tba |
 |     |          | *Coding Challenge Quickstart Notebook*                               | tba |
 |     |              | *Fall Semester Break!*                                             |            |
-|  4  | Nov 15  | Unsupervised Learning: k-means Clustering | tba  |
-|     | Nov 15   | *Coding Challenge Kick-off and Team Registration Deadline            |            |
-|  5  | Nov 22   | Artificial Neural Networks: Training and Evaluation                  |  tba |
-|  6  | Dec 6    | Convolutional Neural Network: Training and Evaluation                |   tba   |
+|     | Nov 22   | *Coding Challenge Kick-off and Team Registration Deadline            |            |
+|  4  | Nov 22   | Artificial Neural Networks: Training and Evaluation                  |  tba |
+|  5  | Dec 6    | Convolutional Neural Network: Training and Evaluation                |   tba   |
 |     | Dec 13   | *Coding Challenge Clinic*                                |           |
 |     | Dec 17   | *Coding Challenge Final Presentation*                                |           | 
 
