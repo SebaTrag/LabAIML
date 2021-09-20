@@ -19,7 +19,7 @@ neural networks. We will also feature information on our coding challenge at the
 |  0  | < Oct 4  | Introduction to the Notebook Environment                             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAIML/master?filepath=lab_00%2Fintroduction_notebook.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/master/lab_00/introduction_notebook.ipynb)|
 |  1  | Oct 4    | Fundamentals of Python Programming: Data Types and Containers        | tba |
 |  2  | Oct 18   | Fundamentals of Python Programming: Functions and Decision Structures | tba |
-|  3  | Oct 25   | Supervised and Unsupervised Learning                                     | tba |
+|  3  | Oct 25   | Supervised Learning with Scikit-learn                                     | tba |
 |     |          | *Coding Challenge Quickstart Notebook*                               | tba |
 |     |              | *Fall Semester Break!*                                             |            |
 |     | Nov 22   | *Coding Challenge Kick-off and Team Registration Deadline            |            |
